@@ -1,0 +1,5 @@
+__pycache__
+BIRDS-450-FS
+**/*.jpg
+**/*.png
+*.zip
