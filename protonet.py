@@ -16,7 +16,10 @@ def conv_block(in_channels, out_channels):
     )
 
 class ProtoNet(nn.Module):
-    def __init__(self, x_dim=1, hid_dim=64, z_dim=64):
+    def __init__(self, 
+                 x_dim=1, 
+                 hid_dim=64, 
+                 z_dim=64):
         super(ProtoNet, self).__init__()
         self.encoder = nn.Sequential(
             conv_block(x_dim, hid_dim),
