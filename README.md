@@ -1,4 +1,4 @@
-# Proto Net Pytorch Implementation
+# Proto Nets Pytorch Implementation
 
 ![img](output.png)
 This repository is the Pytorch implementation of the [Proto Nets](https://arxiv.org/abs/1703.05175). The dataset was made by modifying the BIRDS 450 dataset in Kaggle to the few-shot learning version.<sup>[1](#footnote-1)</sup> 
