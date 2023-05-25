@@ -8,6 +8,3 @@ This repository is the Pytorch implementation of the [Proto Nets](https://arxiv.
 
 ## Footnotes
 1. <span id="footnote-1">It seems that the BIRDS 450 was updated to the [BIRDS 525](https://www.kaggle.com/datasets/gpiosenka/100-bird-species).</span>
-2.
-
-
